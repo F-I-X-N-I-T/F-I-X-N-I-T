@@ -8,9 +8,9 @@
 
 ### 👩‍💻 About me :
 
-- 💼 My [portfolio](https://f-i-x-n-i-t.github.io/portfolio/) web.
-- 💬 Ask me about **Unreal Engine, C++, C#, C, Python, Javascript, Html, Css, MySQL, Linux**.
-- 📫 How to reach me: **fixnitcaballero@gmail.com, tavomx.987@gmail.com**.
+- 💼 My [portfolio](https://web-production-47ec.up.railway.app/) web.
+- 💬 Ask me about **Python, Javascript, Html, Css, MySQL, Linux**.
+- 📫 How to reach me: **fixnitcaballero@gmail.com**.
 
 ---
 
@@ -18,6 +18,9 @@
 
 <div align="left">
   <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" width="40" height="40"/> &nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"/> &nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/rider/rider-original.svg" width="40" height="40"/> &nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/> &nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"/> &nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40"/> &nbsp;
