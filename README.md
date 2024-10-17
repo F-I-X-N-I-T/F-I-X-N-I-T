@@ -8,7 +8,7 @@
 
 ### 👩‍💻 About me :
 
-- 💼 My [portfolio](https://web-production-47ec.up.railway.app/) web.
+- 💼 My [portfolio](https://f-i-x-n-i-t.github.io/portfolio/) web.
 - 💬 Ask me about **Python, Javascript, Html, Css, MySQL, Linux**.
 - 📫 How to reach me: **fixnitcaballero@gmail.com**.
 
